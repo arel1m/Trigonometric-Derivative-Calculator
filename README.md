@@ -1,31 +1,29 @@
-# Trigonometric Derivative Calculator  
+Trigonometric Derivative Calculator  
 
-## 📌 Overview  
+Overview  
 The **Trig Derivative Calculator** is a Java program that computes the derivatives of trigonometric functions.  
-It supports `sin`, `cos`, `tan`, `cot`, `sec`, and `csc` (positive or negative inputs).  
+It supports sin, cos, tan, cot, sec, and csc (positive or negative inputs).  
 The goal of this project is to provide a quick and simple way to practice and verify derivatives of trigonometric functions.  
 
-## 🚀 Features  
-- Computes derivatives of six trigonometric functions  
-- Handles both positive and negative values of functions  
-- Outputs results in simplified form  
+Features  
+-Computes derivatives of six trigonometric functions  
+-Handles both positive and negative values of functions  
+-Outputs results in simplified form  
 
-## 🛠️ Technologies Used  
-- Java  
-
-## 📂 Installation & Usage  
+Installation & Usage  
 1. Clone or download the repository  
-   ```bash
+
    git clone https://github.com/your-username/Trigonometric-Derivative-Calculator.git
+   
 2. Navigate into the project folder
-   ```bash
+
    cd Trigonometric-Derivative-Calculator
 3. Compile and run the program
-   ```bash
+
    javac Main.java
    java Main
 
-## 📖 Example
+Example
 Input:
    d/dx [sin(x)]
 Output:
