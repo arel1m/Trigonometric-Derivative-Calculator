@@ -17,3 +17,22 @@ The goal of this project is to provide a quick and simple way to practice and ve
 1. Clone or download the repository  
    ```bash
    git clone https://github.com/your-username/Trigonometric-Derivative-Calculator.git
+2. Navigate into the project folder
+   ```bash
+   cd Trigonometric-Derivative-Calculator
+3. Compile and run the program
+   ```bash
+   javac Main.java
+   java Main
+
+## 📖 Example
+Input:
+   d/dx [sin(x)]
+Output:
+   cos(x)
+
+Input:
+   d/dx [sec(x)]
+Output:
+   sec(x)tan(x)
+
